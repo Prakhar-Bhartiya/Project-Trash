@@ -11,6 +11,14 @@
 
 <img src="Project Trash/detected_home.PNG" width=500 height=400>        <img src="Project Trash/detected_3.PNG" width=500 height=400>
 
+<img src="Project Trash/detected_2.PNG" width=500 height=400>
+
+<img src="Project Trash/heat_map+garbage.png" width=500 height=400>
+
+<img src="Project Trash/current_heat_map.PNG" width=500 height=400>
+
+
+
 <br><b>[Video-Presentation]</b> = https://youtu.be/uv-k9zUQn6s</br>
 
 <br><b>[PPT]</b> = https://drive.google.com/file/d/1CkE8XYlNXy-z-Ud9nj8H7kG4OoBc7Ced/view?usp=sharing</br>
