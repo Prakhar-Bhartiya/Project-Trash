@@ -9,7 +9,7 @@
 
 # Outcome :
 
-<img src="Project Trash/detected_home.png" width=200 height=400>        <img src="Project Trash/detected_3.png" width=200 height=400>
+<img src="Project Trash/detected_home.PNG" width=200 height=400>        <img src="Project Trash/detected_3.PNG" width=200 height=400>
 
 <br><b>[Video-Presentation]</b> = https://youtu.be/uv-k9zUQn6s</br>
 
