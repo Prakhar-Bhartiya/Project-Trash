@@ -6,7 +6,7 @@
 # Solution :
 <br>Image Source = [ citizens capture the garbage images/images captured from a camera mounted public transport/ CCTV surveillance camera ], the images are stored in a firebase database along with the locational coordinates. The Resnet101 CNN model accesses the images and computes garbage volume, volume, type, and based on its location, a heat map is built using google map APIs for reference of Municipalities.</br>
 
-<br>OWhen images are stored in the online storage and its locational coordinates in the real-time database, the images are downloaded and passed on to ResNet 101 CNN architecture, which classifies the garbage present in the image and calculates the volume of the garbage present using a bounding box technique. the calculated information is updated back in the database. The collective garbage information (volume, type, and location) is then visualized on a google heat map with points proportional to the volume of garbage detected.</br>
+<br>When images are stored in the online storage and its locational coordinates in the real-time database, the images are downloaded and passed on to ResNet 101 CNN architecture, which classifies the garbage present in the image and calculates the volume of the garbage present using a bounding box technique. the calculated information is updated back in the database. The collective garbage information (volume, type, and location) is then visualized on a google heat map with points proportional to the volume of garbage detected.</br>
 
 <img src="Project Trash/garbage_visual.png" width=700 height=400>
 <img src="Project Trash/explain.jpeg" width=700 height=400>
