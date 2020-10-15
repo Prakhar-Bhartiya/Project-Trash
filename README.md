@@ -4,6 +4,8 @@
 <br>With the increasing population, the problem of waste generation and management is inevitable. With the rise of the fast life in big cities, the monitorization of waste saw its downfall due to a decrease in the number of municipality workers and irregularity of garbage collection trucks. Due to this, an abundance of waste is getting piled up in remote areas that are out of the knowledge scope of the municipality. Since these waste disposals are not treated, they have to lead to the spread of numerous diseases, sanitation, and environmental problems</br>
 
 # Solution :
+<br>Once the citizens capture the garbage images or the images are captured by a camera mounted public transport or a CCTV surveillance camera, the images are stored in a firebase database along with the locational coordinates. The Resnet101 CNN model accesses the images and computes garbage volume, volume, type, and based on its location, a heat map is built using google map APIs for reference of Municipalities.</br>
+
 <br>Once the images are stored in the online storage and its locational coordinates in the real-time database, the images are downloaded and passed on to ResNet 101 CNN architecture, which classifies the garbage present in the image and calculates the amount of the garbage present. the calculated information is updated back in the database. The collective garbage information (volume, type, and location) is then visualized on a heat map.</br>
 
 <img src="Project Trash/garbage_visual.png" width=700 height=400>
