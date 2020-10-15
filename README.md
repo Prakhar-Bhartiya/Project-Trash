@@ -14,7 +14,7 @@
 
 <br><b>[Video-Presentation]</b> = https://drive.google.com/file/d/1LKl_Lc1Dobi7GGCGOQqvA8llZp5OGZDn/view?usp=sharing</br>
 
-<br><b>[PPT]</b> = https://drive.google.com/file/d/1iXf3QdMZQ3qbHkM9lOteOKGDYRWDp3zC/view?usp=sharing</br>
+<br><b>[PPT]</b> = https://drive.google.com/file/d/1761HC91ahZcsg5hnwBjqYC2MW3e55zJx/view?usp=sharing</br>
 
 <br><b>[Full Project]</b> =https://drive.google.com/drive/folders/1AxlNjnyiuLlEKgOFlXUEJaYqeil4-EZU?usp=sharing</br>
 
