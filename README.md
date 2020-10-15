@@ -12,9 +12,9 @@
 
 # Outcome :
 
-<img src="Project Trash/detected_home.PNG" width=500 height=400>        
-<img src="Project Trash/detected_3.PNG" width=500 height=400>
-<img src="Project Trash/detetcted_2.PNG" width=500 height=400>
+<img src="Project Trash/detected_home.PNG" width=650 height=400>        
+<img src="Project Trash/detected_3.PNG" width=650 height=400>
+<img src="Project Trash/detetcted_2.PNG" width=650 height=400>
 <img src="Project Trash/heat_map+garbage.png" width=500 height=400>
 <img src="Project Trash/current_heat_map.PNG" width=500 height=400>
 
