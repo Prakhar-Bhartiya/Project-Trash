@@ -7,13 +7,14 @@
 <br>Once the images are stored in the online storage and its locational coordinates in the real-time database, the images are downloaded and passed on to ResNet 101 CNN architecture, which classifies the garbage present in the image and calculates the amount of the garbage present. the calculated information is updated back in the database. The collective garbage information (volume, type, and location) is then visualized on a heat map.</br>
 
 <img src="Project Trash/garbage_visual.png" width=700 height=400>
+<img src="Project Trash/explain.jpeg" width=700 height=400>
 
 
 # Outcome :
 
 <img src="Project Trash/detected_home.PNG" width=500 height=400>        
 <img src="Project Trash/detected_3.PNG" width=500 height=400>
-<img src="Project Trash/detected_2.PNG" width=500 height=400>
+<img src="Project Trash/heat_map+garbage.png" width=500 height=400>
 <img src="Project Trash/current_heat_map.PNG" width=500 height=400>
 
 
